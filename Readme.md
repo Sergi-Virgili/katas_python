@@ -15,6 +15,7 @@ python -m venv venv
 ```
 
 4. Activa el entorno virtual:
+
 - Windows: `venv\Scripts\activate`
 - macOS/Linux: `source venv/bin/activate`
 5. Instala las dependencias:
