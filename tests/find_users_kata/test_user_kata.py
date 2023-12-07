@@ -15,4 +15,3 @@ def test_return_user_if_exist():
     # THEN - ASSERT => OBJETIVO => Comporabacion de el test (que nos devuelva {'id': 2, 'name': 'Bob'})
     assert user == {'id': 2, 'name': 'Bob'}
 
-    pass
