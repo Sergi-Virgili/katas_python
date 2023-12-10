@@ -6,3 +6,4 @@ def find_user_by_id(users, id):
     for user in users:
         if user['id'] == id:
             return user
+    raise Exception("User with id: {} not found".format(id))
